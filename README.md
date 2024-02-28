@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como Tecnico de informatca / tecnico de suporte
 - 🌱 Estudando analise de desenvolvimento de sistemas
 - 😄 Pronouns: ele/dele
+- 🧐 Perfil sujeito a atualizações!
 
 - <div>
   <a href="https://github.com/Wandher"></a>
