@@ -5,7 +5,7 @@
 - 😄 Pronouns: ele/dele
 - 🧐 Perfil sujeito a atualizações!
 
-- <div>
+<div>
   <a href="https://github.com/Wandher"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wandher&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandher&show_icons=true&theme=dracula"/>
