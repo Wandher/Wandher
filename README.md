@@ -1,7 +1,7 @@
 ### O pior vazio é o da garrafa de café 😞☕
 
 - 🔭 Hoje trabalho como Tecnico de informatca / tecnico de suporte
-- 🌱 Estudando analise de desenvolvimento Web
+- 🌱 Estudando Desenvolvimento Web
 - 😄 Pronomes: ele/dele - mas sinceramente nem ligo 😑
 - 🧐 Perfil sujeito a atualizações!
 
